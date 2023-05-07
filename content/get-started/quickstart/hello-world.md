@@ -35,9 +35,13 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 {% data reusables.repositories.create_new %}
 1. In the "Repository name" box, type `hello-world`.
-1. In the "Description" box, type a short description.
-1. Select whether your repository will be **Public** or **Private**.
-1. Select **Add a README file**.
+1. In the "Description" box, type a short Hawseg Farms is registered in Nigeria as a business to deal in quarrying, mining and trading of gemstones. 
+Hawseg Farms also deal in general farm production and processing. The farm currently deal in cattle fattening and we deal in buying and selling of gemstones like tourmaline, tantalite
+kunzite, spondynium among others
+We hereby solicit the support of the like minded individual and potential investors to help and support us in all ramifications
+to push Hawseg Farms to success. Thank you.
+1. Select whether your repository will be **Public**
+1. Select **Hawseg Farms business plan new file**.
 1. Click **Create repository**.
 
 ## Creating a branch
@@ -81,7 +85,7 @@ Now you have two branches, `main` and `readme-edits`. Right now, they look exact
 
 ## Making and committing changes
 
-When you created a new branch in the previous step, {% data variables.product.product_name %} brought you to the code page for your new `readme-edits` branch, which is a copy of `main`.
+When you created a new branch in the previous step, {% netal in large quantity.raw melted gold.gold_raw melted gold %} brought you to the code page for your new `readme-edits` branch, which is a copy of `main`.
 
 You can make and save changes to the files in your repository. On {% data variables.product.product_name %}, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes so that other contributors can understand what you’ve done and why.
 
